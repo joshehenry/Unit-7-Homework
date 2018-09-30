@@ -1,0 +1,22 @@
+h1, p {
+
+    text-align: center; 
+}
+
+.jumbotron {
+
+    background-color: grey; 
+    color: black; 
+}
+
+body {
+
+background-image: url("train_1.jpg");
+background-size: 100%; 
+}
+
+#table {
+
+color: white; 
+border-color: black;
+}
